@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Class-Path: jetty-util-6.1.26.cloudera.4.jar avro-1.7.6-cdh5.3.6.jar a
+ ctivation-1.1.jar java-xmlbuilder-0.4.jar commons-io-2.4.jar hbase-cl
+ ient-0.98.6-cdh5.3.6.jar tools.jar hsqldb-1.8.0.10.jar findbugs-annot
+ ations-1.3.9-1.jar log4j-1.2.17.jar jasper-compiler-5.5.23.jar high-s
+ cale-lib-1.1.1.jar jopt-simple-3.2.jar commons-logging-1.1.1.jar hbas
+ e-common-0.98.6-cdh5.3.6.jar zookeeper-3.4.5-cdh5.3.6.jar jsr305-1.3.
+ 9.jar jersey-server-1.8.jar curator-framework-2.6.0.jar commons-el-1.
+ 0.jar hadoop-annotations-2.5.0-cdh5.3.6.jar api-asn1-api-1.0.0-M20.ja
+ r servlet-api-2.5-6.1.14.jar hadoop-hdfs-2.5.0-cdh5.3.6-tests.jar com
+ mons-math-2.1.jar commons-configuration-1.6.jar jsp-api-2.1.jar guava
+ -12.0.1.jar commons-cli-1.2.jar jsp-api-2.1-6.1.14.jar jackson-xc-1.7
+ .1.jar commons-compress-1.4.1.jar protobuf-java-2.5.0.jar kafka_2.10-
+ 0.8.2.1.jar apacheds-kerberos-codec-2.0.0-M15.jar zkclient-0.3.jar cu
+ rator-client-2.6.0.jar hbase-hadoop2-compat-0.98.6-cdh5.3.6.jar netty
+ -3.6.6.Final.jar core-3.1.1.jar slf4j-log4j12-1.7.5.jar commons-httpc
+ lient-3.1.jar hbase-common-0.98.6-cdh5.3.6-tests.jar commons-math3-3.
+ 1.1.jar api-util-1.0.0-M20.jar kafka-clients-0.8.2.1.jar hadoop-hdfs-
+ 2.5.0-cdh5.3.6.jar hbase-prefix-tree-0.98.6-cdh5.3.6.jar hadoop-commo
+ n-2.5.0-cdh5.3.6.jar jaxb-impl-2.2.3-1.jar commons-lang-2.6.jar jamon
+ -runtime-2.3.1.jar metrics-core-2.2.0.jar hadoop-core-2.5.0-mr1-cdh5.
+ 3.6.jar snappy-java-1.1.1.6.jar jersey-json-1.8.jar servlet-api-2.5.j
+ ar slf4j-api-1.7.5.jar jasper-runtime-5.5.23.jar jsp-2.1-6.1.14.jar l
+ z4-1.2.0.jar commons-digester-1.8.jar htrace-core-2.04.jar xz-1.0.jar
+  commons-net-3.1.jar jettison-1.1.jar scala-library-2.10.4.jar hadoop
+ -auth-2.5.0-cdh5.3.6.jar hbase-server-0.98.6-cdh5.3.6.jar curator-rec
+ ipes-2.6.0.jar jaxb-api-2.1.jar jackson-mapper-asl-1.8.8.jar paraname
+ r-2.3.jar apacheds-i18n-2.0.0-M15.jar asm-3.1.jar jersey-core-1.8.jar
+  httpcore-4.1.2.jar commons-collections-3.2.1.jar jetty-6.1.26.cloude
+ ra.4.jar jets3t-0.9.0.jar httpclient-4.2.5.jar jetty-sslengine-6.1.26
+ .cloudera.4.jar commons-beanutils-core-1.8.0.jar commons-beanutils-1.
+ 7.0.jar jsch-0.1.42.jar xmlenc-0.52.jar hbase-protocol-0.98.6-cdh5.3.
+ 6.jar commons-daemon-1.0.13.jar jackson-core-asl-1.8.8.jar gson-2.2.4
+ .jar jackson-jaxrs-1.8.8.jar hbase-hadoop-compat-0.98.6-cdh5.3.6.jar 
+ commons-codec-1.7.jar
+Main-Class: 
+
